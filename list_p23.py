@@ -1,0 +1,9 @@
+x=['sd',30,'fg',67,'jk']
+print(x)
+print(x.index(67))
+x.reverse()
+print(x)
+x.pop()
+print(x)
+x.pop(0)
+print(x)
